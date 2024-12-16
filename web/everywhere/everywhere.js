@@ -21,8 +21,15 @@ document.addEventListener("featureadded", ev => {
     features[ev.detail.name] = ev.detail;
 });
 
+
 let locations = document.querySelector("#lyrics");
+
+// I think there should be a moraorium on firing this if either a click or dblclick has occured in the last x seconds
+let timer = Date.now();
 locations.addEventListener("locationover", ev => {
+    let now = Date.now();
+    if(now - timer < 2000) return;    // Maybe it should be paramaterised
+
     let data = features[ev.detail.name];
     if(data) {
         data.layer.openPopup(null, {autoPanPadding: [50, 50]});
@@ -30,6 +37,7 @@ locations.addEventListener("locationover", ev => {
 });
 
 locations.addEventListener("locationclick", ev => {
+    timer = Date.now();
     let data = features[ev.detail.name];
     if(data) {
         let latLng = data.layer.getLatLng();
@@ -38,6 +46,7 @@ locations.addEventListener("locationclick", ev => {
 });
 
 locations.addEventListener("locationdblclick", ev => {
+    timer = Date.now();
     let data = features[ev.detail.name];
     let zoom = ev.detail.modified ? -1 : 1;
     if(data) {
