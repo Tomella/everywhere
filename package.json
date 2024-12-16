@@ -1,0 +1,28 @@
+{
+    "name": "everywhere",
+    "version": "0.0.1",
+    "description": "\"I've been everywhere\" song locations on a map",
+    "type": "module",
+    "keywords": [
+        "geolocation",
+        "song"
+    ],
+    "author": {
+        "name": "Larry Hill",
+        "url": "http://www.geospeedster.com/"
+    },
+    "license": "Apache-2.0",
+    "homepage": "http://www.geospeedster.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tomella/everywhere"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "leaflet-iconmaterial": "^1.1.0",
+        "proj4": "^2.15.0",
+        "x2js": "^3.4.4"
+    },
+    "bundleDependencies": [],
+    "private": true
+}

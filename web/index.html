@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>I've Been Everywhere</title>
+   <link rel="icon" type="image/png" href="icon.png">
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" crossorigin="" />
+   <link href="leaflet-iconmaterial/leaflet.icon-material.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="https://ppete2.github.io/Leaflet.PolylineMeasure/Leaflet.PolylineMeasure.css" />
+   <link rel="stylesheet" href="app/app.css" />
+   
+   <script type="module" src="components/everywhere-location.js"></script>
+</head>
+
+<body>
+   <div id="mapId"></div>
+   <h1 id="heading1" title="View Wiki's entry on the song."><a
+         href="https://en.wikipedia.org/wiki/I%27ve_Been_Everywhere" target="wiki">I've Been Everywhere</a></h1>
+   <div id="lyricscontainer">
+      <div id="lyrics">
+         Well, I was humpin&apos; my bluey<br>
+         on the dusty <everywhere-location>Oodnadatta</everywhere-location> road<br>
+         When along came a semi with a<br>
+         high and canvas-covered load<br>
+         “If you&apos;re goin&apos; to <everywhere-location>Oodnadatta</everywhere-location>,<br>
+         mate, um, with me you can ride.”<br>
+         So I climbed in the cabin<br>
+         and I settled down inside<br>
+         He asked me if I&apos;d seen a road<br>
+         with so much dust and sand,<br>
+         I said “Listen, mate, I&apos;ve travelled<br>
+         ev&apos;ry road in this here land.”<br>
+         <br>
+         <br>
+         Cos “I&apos;ve been everywhere, man<br>
+         I&apos;ve been everywhere, man<br>
+         &apos;Cross the deserts bare, man<br>
+         I&apos;ve breathed the mountain air, man<br>
+         Of travel I&apos;ve had my share, man<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         I've been to<br>
+         <everywhere-location>Tullamore</everywhere-location>,
+         <everywhere-location>Seymour</everywhere-location>,
+         <everywhere-location>Lismore</everywhere-location>,
+         <everywhere-location>Mooloolaba</everywhere-location>
+         <br>
+         <everywhere-location>Nambour</everywhere-location>, 
+         <everywhere-location>Maroochydore</everywhere-location>
+         <br>
+         <everywhere-location>Kilmore</everywhere-location>, 
+         <everywhere-location>Murwillumbah</everywhere-location>
+         <br>
+         <everywhere-location>Birdsville</everywhere-location>, 
+         <everywhere-location>Emmaville</everywhere-location>
+         <br>
+         <everywhere-location>Wallaville</everywhere-location>, 
+         <everywhere-location>Cunnamulla</everywhere-location>
+         <br>
+         <everywhere-location>Condamine</everywhere-location>, 
+         <everywhere-location>Strathpine</everywhere-location>
+         <br>
+         <everywhere-location>Proserpine</everywhere-location>, 
+         <everywhere-location>Ulladulla</everywhere-location>
+         <br>
+         <everywhere-location>Darwin</everywhere-location>, 
+         <everywhere-location>Gin Gin</everywhere-location>, 
+         <everywhere-location>Deniliquin</everywhere-location>, 
+         <everywhere-location>Muckadilla</everywhere-location>
+         <br>
+         <everywhere-location>Wallumbilla</everywhere-location>, 
+         <everywhere-location>Boggabilla</everywhere-location>, 
+         <everywhere-location>Kumbarilla</everywhere-location>
+         <br>
+         I&apos;m a killer<br>
+         <br>
+         “I&apos;ve been everywhere, man<br>
+         I&apos;ve been everywhere, man<br>
+         &apos;Cross the deserts bare, man<br>
+         I&apos;ve breathed the mountain air, man<br>
+         Of travel I&apos;ve had my share, man<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         I&apos;ve been to 
+         <everywhere-location>Moree</everywhere-location>, 
+         <everywhere-location>Taree</everywhere-location>
+         <br>
+         <everywhere-location>Jerilderie</everywhere-location>, 
+         <everywhere-location>Bambaroo</everywhere-location>
+         <br>
+         <everywhere-location>Toowoomba</everywhere-location>, 
+         <everywhere-location>Gunnedah</everywhere-location>
+         <br>
+         <everywhere-location>Caringbah</everywhere-location>, 
+         <everywhere-location>Woolloomooloo</everywhere-location>
+         <br>
+         <everywhere-location>Dalveen</everywhere-location>, 
+         <everywhere-location>Tamborine</everywhere-location>, 
+         <everywhere-location>Engadine</everywhere-location>, 
+         <everywhere-location>Jindabyne</everywhere-location>
+         <br>
+         <everywhere-location>Lithgow</everywhere-location>, 
+         <everywhere-location>Casino</everywhere-location>, 
+         <everywhere-location>Brigalow</everywhere-location> and 
+         <everywhere-location>Narromine</everywhere-location>
+         <br>
+         <everywhere-location>Megalong</everywhere-location>, 
+         <everywhere-location>Wyong</everywhere-location>
+         <br>
+         <everywhere-location>Tuggerawong</everywhere-location>, 
+         <everywhere-location>Wangarella</everywhere-location>
+         <br>
+         <everywhere-location>Morella</everywhere-location>, 
+         <everywhere-location>Augathella</everywhere-location>
+         <br>
+         <everywhere-location>Brindabella</everywhere-location>, I&apos;m the fella
+         <br>
+         <br>
+         “I&apos;ve been everywhere, man<br>
+         I&apos;ve been everywhere, man<br>
+         &apos;Cross the deserts bare, man<br>
+         I&apos;ve breathed the mountain air, man<br>
+         Of travel I&apos;ve had my share, man<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         I&apos;ve been to <everywhere-location>Wollongong</everywhere-location>
+         <br>
+         <everywhere-location>Geelong</everywhere-location>, 
+         <everywhere-location>Kurrajong</everywhere-location>, 
+         <everywhere-location>Mullumbimby</everywhere-location>
+         <br>
+         <everywhere-location>Mittagong</everywhere-location>, 
+         <everywhere-location>Molong</everywhere-location>
+         <br>
+         <everywhere-location>Grong Grong</everywhere-location>, 
+         <everywhere-location>Goondiwindi</everywhere-location>
+         <br>
+         <everywhere-location>Yarra Yarra</everywhere-location>, 
+         <everywhere-location>Bouindarra</everywhere-location>
+         <br>
+         <everywhere-location>Wallangarra</everywhere-location>, 
+         <everywhere-location>Turramurra</everywhere-location>
+         <br>
+         <everywhere-location>Boggabri</everywhere-location>, 
+         <everywhere-location>Gundagai</everywhere-location><br>
+         <everywhere-location>Narrabri</everywhere-location>, 
+         <everywhere-location>Tibooburra</everywhere-location>
+         <br>
+         <everywhere-location>Gulgong</everywhere-location>, 
+         <everywhere-location>Adelong</everywhere-location>, 
+         <everywhere-location>Billabong</everywhere-location>, 
+         <everywhere-location>Cabramatta</everywhere-location>
+         <br>
+         <everywhere-location>Parramatta</everywhere-location>, 
+         <everywhere-location>Wangaratta</everywhere-location>
+         <br>
+         <everywhere-location>Coolangatta</everywhere-location>, what&apos;s it matter?
+         <br>
+         <br>
+         “I&apos;ve been everywhere, man<br>
+         I&apos;ve been everywhere, man<br>
+         &apos;Cross the deserts bare, man<br>
+         I&apos;ve breathed the mountain air, man<br>
+         Of travel I&apos;ve had my share, man<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         I&apos;ve been to <everywhere-location>Ettalong</everywhere-location>
+         <br>
+         <everywhere-location>Dandenong</everywhere-location>, 
+         <everywhere-location>Woodenbong</everywhere-location>, 
+         <everywhere-location>Ballarat</everywhere-location>
+         <br>
+         <everywhere-location>Canberra</everywhere-location>, 
+         <everywhere-location>Milperra</everywhere-location>
+         <br>
+         <everywhere-location>Unanderra</everywhere-location>, 
+         <everywhere-location>Captains Flat</everywhere-location>
+         <br>
+         <everywhere-location>Cloncurry</everywhere-location>, 
+         <everywhere-location>River Murray</everywhere-location>
+         <br>
+         <everywhere-location>Kurri Kurri</everywhere-location>, 
+         <everywhere-location>Girraween</everywhere-location>
+         <br>
+         <everywhere-location>Terrigal</everywhere-location>, 
+         <everywhere-location>Fingal</everywhere-location>, 
+         <everywhere-location>Stockinbingal</everywhere-location>
+         <br>
+         <everywhere-location>Collaroy</everywhere-location> and 
+         <everywhere-location>Narrabeen</everywhere-location>
+         <br>
+         <everywhere-location>Bendigo</everywhere-location>, 
+         <everywhere-location>Dorrigo</everywhere-location>
+         <br>
+         <everywhere-location>Bangalow</everywhere-location>, 
+         <everywhere-location>Indooroopilly</everywhere-location>
+         <br>
+         <everywhere-location>Kirribilli</everywhere-location>, 
+         <everywhere-location>Yeerongpilly</everywhere-location>
+         <br>
+         <everywhere-location>Wollondilly</everywhere-location>, don&apos;t be silly
+         <br>
+         <br>
+         “I&apos;ve been everywhere, man<br>
+         I&apos;ve been everywhere, man<br>
+         &apos;Cross the deserts bare, man<br>
+         I&apos;ve breathed the mountain air, man<br>
+         Of travel I&apos;ve had my share, man<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         <br>
+         I&apos;ve been here, there, ev&apos;rywhere<br>
+         I&apos;ve been ev&apos;rywhere<br>
+         <br>
+         “Okay, mate, you&apos;ve been<br>
+         ev&apos;ry place except one, and ya<br>
+         don&apos;t need my help t&apos;get there.”
+      </div>
+   </div>
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+   <script src="https://ppete2.github.io/Leaflet.PolylineMeasure/Leaflet.PolylineMeasure.js"></script>
+   <script src="leaflet-iconmaterial/leaflet.icon-material.js"></script>
+   <script type="module" src="everywhere/everywhere.js"></script>
+</body>
+
+</html>

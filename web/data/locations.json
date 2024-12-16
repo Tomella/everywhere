@@ -1,0 +1,1753 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.05",
+          "-35.3"
+        ]
+      },
+      "properties": {
+        "name": "Adelong (centre of locality)",
+        "description": "Adelong",
+        "song": "Adelong",
+        "href": "https://en.wikipedia.org/wiki/Adelong,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Adelong,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "146.5858",
+          "-25.7947"
+        ]
+      },
+      "properties": {
+        "name": "Augathella (centre of locality)",
+        "description": "Augathella",
+        "song": "Augathella",
+        "href": "https://en.wikipedia.org/wiki/Augathella",
+        "text": "https://en.wikipedia.org/wiki/Augathella",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.8475",
+          "-37.560833"
+        ]
+      },
+      "properties": {
+        "name": "Ballarat (centre of locality)",
+        "description": "Ballarat",
+        "song": "Ballarat",
+        "href": "https://en.wikipedia.org/wiki/Ballarat",
+        "text": "https://en.wikipedia.org/wiki/Ballarat",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "146.1855",
+          "-18.8875"
+        ]
+      },
+      "properties": {
+        "name": "Bambaroo (centre of locality)",
+        "description": "Bambaroo",
+        "song": "Bambaroo",
+        "href": "https://en.wikipedia.org/wiki/Bambaroo,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Bambaroo,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.516667",
+          "-28.7"
+        ]
+      },
+      "properties": {
+        "name": "Bangalow (centre of locality)",
+        "description": "Bangalow",
+        "song": "Bangalow",
+        "href": "https://en.wikipedia.org/wiki/Bangalow",
+        "text": "https://en.wikipedia.org/wiki/Bangalow",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.266667",
+          "-36.75"
+        ]
+      },
+      "properties": {
+        "name": "Bendigo (centre of locality)",
+        "description": "Bendigo",
+        "song": "Bendigo",
+        "href": "https://en.wikipedia.org/wiki/Bendigo",
+        "text": "https://en.wikipedia.org/wiki/Bendigo",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.3513",
+          "-25.8986"
+        ]
+      },
+      "properties": {
+        "name": "Birdsville (town centre)",
+        "description": "Birdsville",
+        "song": "Birdsville",
+        "href": "https://en.wikipedia.org/wiki/Birdsville",
+        "text": "https://en.wikipedia.org/wiki/Birdsville",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.35",
+          "-28.6"
+        ]
+      },
+      "properties": {
+        "name": "Boggabilla (centre of locality)",
+        "description": "Boggabilla",
+        "song": "Boggabilla",
+        "href": "https://en.wikipedia.org/wiki/Boggabilla",
+        "text": "https://en.wikipedia.org/wiki/Boggabilla",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.033333",
+          "-30.7"
+        ]
+      },
+      "properties": {
+        "name": "Boggabri (centre of locality)",
+        "description": "Boggabri",
+        "song": "Boggabri",
+        "href": "https://en.wikipedia.org/wiki/Boggabri",
+        "text": "https://en.wikipedia.org/wiki/Boggabri",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.066667",
+          "-37.816667"
+        ]
+      },
+      "properties": {
+        "name": "Boroondara (centre of locality)",
+        "description": "Boroondara",
+        "song": "Bouindarra",
+        "href": "https://en.wikipedia.org/wiki/City_of_Boroondara",
+        "text": "https://en.wikipedia.org/wiki/City_of_Boroondara",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.7883",
+          "-26.8422"
+        ]
+      },
+      "properties": {
+        "name": "Brigalow (town centre)",
+        "description": "Brigalow",
+        "song": "Brigalow",
+        "href": "https://en.wikipedia.org/wiki/Brigalow,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Brigalow,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.766667",
+          "-35.55"
+        ]
+      },
+      "properties": {
+        "name": "Brindabella (centre of locality)",
+        "description": "Brindabella",
+        "song": "Brindabella",
+        "href": "https://en.wikipedia.org/wiki/Brindabella_Range",
+        "text": "https://en.wikipedia.org/wiki/Brindabella_Range",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.9375",
+          "-33.894444"
+        ]
+      },
+      "properties": {
+        "name": "Cabramatta (centre of locality)",
+        "description": "Cabramatta",
+        "song": "Cabramatta",
+        "href": "https://en.wikipedia.org/wiki/Cabramatta,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Cabramatta,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.126944",
+          "-35.293056"
+        ]
+      },
+      "properties": {
+        "name": "Canberra (centre of locality)",
+        "description": "Canberra",
+        "song": "Canberra",
+        "href": "https://en.wikipedia.org/wiki/Canberra",
+        "text": "https://en.wikipedia.org/wiki/Canberra",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.4475",
+          "-35.588611"
+        ]
+      },
+      "properties": {
+        "name": "Captains Flat (centre of locality)",
+        "description": "Captains Flat",
+        "song": "Captains Flat",
+        "href": "https://en.wikipedia.org/wiki/Captains_Flat",
+        "text": "https://en.wikipedia.org/wiki/Captains_Flat",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.1218",
+          "-34.0452"
+        ]
+      },
+      "properties": {
+        "name": "Caringbah (centre of locality)",
+        "description": "Caringbah",
+        "song": "Caringbah",
+        "href": "https://en.wikipedia.org/wiki/Caringbah",
+        "text": "https://en.wikipedia.org/wiki/Caringbah",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.05",
+          "-28.866667"
+        ]
+      },
+      "properties": {
+        "name": "Casino (centre of locality)",
+        "description": "Casino",
+        "song": "Casino",
+        "href": "https://en.wikipedia.org/wiki/Casino,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Casino,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.505278",
+          "-20.704722"
+        ]
+      },
+      "properties": {
+        "name": "Cloncurry (centre of locality)",
+        "description": "Cloncurry",
+        "song": "Cloncurry",
+        "href": "https://en.wikipedia.org/wiki/Cloncurry,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Cloncurry,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.3",
+          "-33.73"
+        ]
+      },
+      "properties": {
+        "name": "Collaroy (centre of locality)",
+        "description": "Collaroy",
+        "song": "Collaroy",
+        "href": "https://en.wikipedia.org/wiki/Collaroy,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Collaroy,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.626944",
+          "-27.055556"
+        ]
+      },
+      "properties": {
+        "name": "Condamine River (centre of locality)",
+        "description": "Condamine River",
+        "song": "Condamine",
+        "href": "https://en.wikipedia.org/wiki/Condamine_River",
+        "text": "https://en.wikipedia.org/wiki/Condamine_River",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.5336",
+          "-28.1708"
+        ]
+      },
+      "properties": {
+        "name": "Coolangatta (centre of suburb)",
+        "description": "Coolangatta",
+        "song": "Coolangatta",
+        "href": "https://en.wikipedia.org/wiki/Coolangatta",
+        "text": "https://en.wikipedia.org/wiki/Coolangatta",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.6825",
+          "-28.0702"
+        ]
+      },
+      "properties": {
+        "name": "Cunnamulla (centre of locality)",
+        "description": "Cunnamulla",
+        "song": "Cunnamulla",
+        "href": "https://en.wikipedia.org/wiki/Cunnamulla",
+        "text": "https://en.wikipedia.org/wiki/Cunnamulla",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.9708",
+          "-28.4894"
+        ]
+      },
+      "properties": {
+        "name": "Dalveen (town centre)",
+        "description": "Dalveen",
+        "song": "Dalveen",
+        "href": "https://en.wikipedia.org/wiki/Dalveen,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Dalveen,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.215",
+          "-37.981"
+        ]
+      },
+      "properties": {
+        "name": "Dandenong (centre of locality)",
+        "description": "Dandenong",
+        "song": "Dandenong",
+        "href": "https://en.wikipedia.org/wiki/Dandenong,_Victoria",
+        "text": "https://en.wikipedia.org/wiki/Dandenong,_Victoria",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.841111",
+          "-12.438056"
+        ]
+      },
+      "properties": {
+        "name": "Darwin (centre of locality)",
+        "description": "Darwin",
+        "song": "Darwin",
+        "href": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
+        "text": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.956944",
+          "-35.529722"
+        ]
+      },
+      "properties": {
+        "name": "Deniliquin (centre of locality)",
+        "description": "Deniliquin",
+        "song": "Deniliquin",
+        "href": "https://en.wikipedia.org/wiki/Deniliquin",
+        "text": "https://en.wikipedia.org/wiki/Deniliquin",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.716667",
+          "-30.333333"
+        ]
+      },
+      "properties": {
+        "name": "Dorrigo (centre of locality)",
+        "description": "Dorrigo",
+        "song": "Dorrigo",
+        "href": "https://en.wikipedia.org/wiki/Dorrigo,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Dorrigo,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.6",
+          "-29.45"
+        ]
+      },
+      "properties": {
+        "name": "Emmaville (centre of locality)",
+        "description": "Emmaville",
+        "song": "Emmaville",
+        "href": "https://en.wikipedia.org/wiki/Emmaville,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Emmaville,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.012664",
+          "-34.065722"
+        ]
+      },
+      "properties": {
+        "name": "Engadine (centre of locality)",
+        "description": "Engadine",
+        "song": "Engadine",
+        "href": "https://en.wikipedia.org/wiki/Engadine,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Engadine,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.335",
+          "-33.515"
+        ]
+      },
+      "properties": {
+        "name": "Ettalong (centre of locality)",
+        "description": "Ettalong",
+        "song": "Ettalong",
+        "href": "https://en.wikipedia.org/wiki/Ettalong_Beach",
+        "text": "https://en.wikipedia.org/wiki/Ettalong_Beach",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.566667",
+          "-28.202778"
+        ]
+      },
+      "properties": {
+        "name": "Fingal (centre of locality)",
+        "description": "Fingal",
+        "song": "Fingal",
+        "href": "https://en.wikipedia.org/wiki/Fingal_Head,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Fingal_Head,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.35",
+          "-38.15"
+        ]
+      },
+      "properties": {
+        "name": "Geelong (centre of locality)",
+        "description": "Geelong",
+        "song": "Geelong",
+        "href": "https://en.wikipedia.org/wiki/Geelong",
+        "text": "https://en.wikipedia.org/wiki/Geelong",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.9558",
+          "-24.9908"
+        ]
+      },
+      "properties": {
+        "name": "Gin Gin (town centre)",
+        "description": "Gin Gin",
+        "song": "Gin Gin",
+        "href": "https://en.wikipedia.org/wiki/Gin_Gin,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Gin_Gin,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.94305",
+          "-33.80128"
+        ]
+      },
+      "properties": {
+        "name": "Girraween (centre of locality)",
+        "description": "Girraween",
+        "song": "Girraween",
+        "href": "https://en.wikipedia.org/wiki/Girraween,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Girraween,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.3097",
+          "-28.5461"
+        ]
+      },
+      "properties": {
+        "name": "Goondiwindi (centre of locality)",
+        "description": "Goondiwindi",
+        "song": "Goondiwindi",
+        "href": "https://en.wikipedia.org/wiki/Goondiwindi",
+        "text": "https://en.wikipedia.org/wiki/Goondiwindi",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "146.783333",
+          "-34.716667"
+        ]
+      },
+      "properties": {
+        "name": "Grong Grong (centre of locality)",
+        "description": "Grong Grong",
+        "song": "Grong Grong",
+        "href": "https://en.wikipedia.org/wiki/Grong_Grong",
+        "text": "https://en.wikipedia.org/wiki/Grong_Grong",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.533333",
+          "-32.363056"
+        ]
+      },
+      "properties": {
+        "name": "Gulgong (centre of locality)",
+        "description": "Gulgong",
+        "song": "Gulgong",
+        "href": "https://en.wikipedia.org/wiki/Gulgong",
+        "text": "https://en.wikipedia.org/wiki/Gulgong",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.107695",
+          "-35.065885"
+        ]
+      },
+      "properties": {
+        "name": "Gundagai (centre of locality)",
+        "description": "Gundagai",
+        "song": "Gundagai",
+        "href": "https://en.wikipedia.org/wiki/Gundagai",
+        "text": "https://en.wikipedia.org/wiki/Gundagai",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.25",
+          "-30.966667"
+        ]
+      },
+      "properties": {
+        "name": "Gunnedah (centre of locality)",
+        "description": "Gunnedah",
+        "song": "Gunnedah",
+        "href": "https://en.wikipedia.org/wiki/Gunnedah",
+        "text": "https://en.wikipedia.org/wiki/Gunnedah",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.98",
+          "-27.5038"
+        ]
+      },
+      "properties": {
+        "name": "Indooroopilly (centre of suburb)",
+        "description": "Indooroopilly",
+        "song": "Indooroopilly",
+        "href": "https://en.wikipedia.org/wiki/Indooroopilly,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Indooroopilly,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.733333",
+          "-35.35"
+        ]
+      },
+      "properties": {
+        "name": "Jerilderie (centre of locality)",
+        "description": "Jerilderie",
+        "song": "Jerilderie",
+        "href": "https://en.wikipedia.org/wiki/Jerilderie",
+        "text": "https://en.wikipedia.org/wiki/Jerilderie",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.616667",
+          "-36.4"
+        ]
+      },
+      "properties": {
+        "name": "Jindabyne (centre of locality)",
+        "description": "Jindabyne",
+        "song": "Jindabyne",
+        "href": "https://en.wikipedia.org/wiki/Jindabyne,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Jindabyne,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.95",
+          "-37.283333"
+        ]
+      },
+      "properties": {
+        "name": "Kilmore (centre of locality)",
+        "description": "Kilmore",
+        "song": "Kilmore",
+        "href": "https://en.wikipedia.org/wiki/Kilmore,_Victoria",
+        "text": "https://en.wikipedia.org/wiki/Kilmore,_Victoria",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.21477",
+          "-33.85045"
+        ]
+      },
+      "properties": {
+        "name": "Kirribilli (centre of locality)",
+        "description": "Kirribilli",
+        "song": "Kirribilli",
+        "href": "https://en.wikipedia.org/wiki/Kirribilli,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Kirribilli,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.8761",
+          "-27.3158"
+        ]
+      },
+      "properties": {
+        "name": "Kumbarilla (town centre)",
+        "description": "Kumbarilla",
+        "song": "Kumbarilla",
+        "href": "https://en.wikipedia.org/wiki/Kumbarilla,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Kumbarilla,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.666667",
+          "-33.55"
+        ]
+      },
+      "properties": {
+        "name": "Kurrajong (centre of locality)",
+        "description": "Kurrajong",
+        "song": "Kurrajong",
+        "href": "https://en.wikipedia.org/wiki/Kurrajong,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Kurrajong,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.483333",
+          "-32.816667"
+        ]
+      },
+      "properties": {
+        "name": "Kurri Kurri (centre of locality)",
+        "description": "Kurri Kurri",
+        "song": "Kurri Kurri",
+        "href": "https://en.wikipedia.org/wiki/Kurri_Kurri,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Kurri_Kurri,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.283333",
+          "-28.816667"
+        ]
+      },
+      "properties": {
+        "name": "Lismore (centre of locality)",
+        "description": "Lismore",
+        "song": "Lismore",
+        "href": "https://en.wikipedia.org/wiki/Lismore,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Lismore,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.15",
+          "-33.483333"
+        ]
+      },
+      "properties": {
+        "name": "Lithgow (centre of locality)",
+        "description": "Lithgow",
+        "song": "Lithgow",
+        "href": "https://en.wikipedia.org/wiki/Lithgow,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Lithgow,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.0932",
+          "-26.6553"
+        ]
+      },
+      "properties": {
+        "name": "Maroochydore (centre of locality)",
+        "description": "Maroochydore",
+        "song": "Maroochydore",
+        "href": "https://en.wikipedia.org/wiki/Maroochydore",
+        "text": "https://en.wikipedia.org/wiki/Maroochydore",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.25",
+          "-33.733333"
+        ]
+      },
+      "properties": {
+        "name": "Megalong (centre of locality)",
+        "description": "Megalong",
+        "song": "Megalong",
+        "href": "https://en.wikipedia.org/wiki/Megalong_Valley",
+        "text": "https://en.wikipedia.org/wiki/Megalong_Valley",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.98037",
+          "-33.94282"
+        ]
+      },
+      "properties": {
+        "name": "Milperra (centre of locality)",
+        "description": "Milperra",
+        "song": "Milperra",
+        "href": "https://en.wikipedia.org/wiki/Milperra",
+        "text": "https://en.wikipedia.org/wiki/Milperra",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.45",
+          "-34.45"
+        ]
+      },
+      "properties": {
+        "name": "Mittagong (centre of locality)",
+        "description": "Mittagong",
+        "song": "Mittagong",
+        "href": "https://en.wikipedia.org/wiki/Mittagong",
+        "text": "https://en.wikipedia.org/wiki/Mittagong",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.85",
+          "-33.1"
+        ]
+      },
+      "properties": {
+        "name": "Molong (centre of locality)",
+        "description": "Molong",
+        "song": "Molong",
+        "href": "https://en.wikipedia.org/wiki/Molong",
+        "text": "https://en.wikipedia.org/wiki/Molong",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.1177",
+          "-26.6819"
+        ]
+      },
+      "properties": {
+        "name": "Mooloolaba (centre of suburb)",
+        "description": "Mooloolaba",
+        "song": "Mooloolaba",
+        "href": "https://en.wikipedia.org/wiki/Mooloolaba",
+        "text": "https://en.wikipedia.org/wiki/Mooloolaba",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.833889",
+          "-29.465833"
+        ]
+      },
+      "properties": {
+        "name": "Moree (centre of locality)",
+        "description": "Moree",
+        "song": "Moree",
+        "href": "https://en.wikipedia.org/wiki/Moree,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Moree,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.855",
+          "-22.998"
+        ]
+      },
+      "properties": {
+        "name": "Morella (centre of locality)",
+        "description": "Morella",
+        "song": "Morella",
+        "href": "https://en.wikipedia.org/wiki/Morella,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Morella,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.3866",
+          "-26.5863"
+        ]
+      },
+      "properties": {
+        "name": "Muckadilla (centre of locality)",
+        "description": "Muckadilla",
+        "song": "Muckadilla",
+        "href": "https://en.wikipedia.org/wiki/Muckadilla,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Muckadilla,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.5",
+          "-28.55"
+        ]
+      },
+      "properties": {
+        "name": "Mullumbimby (centre of locality)",
+        "description": "Mullumbimby",
+        "song": "Mullumbimby",
+        "href": "https://en.wikipedia.org/wiki/Mullumbimby",
+        "text": "https://en.wikipedia.org/wiki/Mullumbimby",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.395833",
+          "-28.3275"
+        ]
+      },
+      "properties": {
+        "name": "Murwillumbah (centre of locality)",
+        "description": "Murwillumbah",
+        "song": "Murwillumbah",
+        "href": "https://en.wikipedia.org/wiki/Murwillumbah",
+        "text": "https://en.wikipedia.org/wiki/Murwillumbah",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.9591",
+          "-26.6269"
+        ]
+      },
+      "properties": {
+        "name": "Nambour (town centre)",
+        "description": "Nambour",
+        "song": "Nambour",
+        "href": "https://en.wikipedia.org/wiki/Nambour",
+        "text": "https://en.wikipedia.org/wiki/Nambour",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.2952",
+          "-33.7231"
+        ]
+      },
+      "properties": {
+        "name": "Narrabeen (centre of locality)",
+        "description": "Narrabeen",
+        "song": "Narrabeen",
+        "href": "https://en.wikipedia.org/wiki/Narrabeen",
+        "text": "https://en.wikipedia.org/wiki/Narrabeen",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.766667",
+          "-30.316667"
+        ]
+      },
+      "properties": {
+        "name": "Narrabri (centre of locality)",
+        "description": "Narrabri",
+        "song": "Narrabri",
+        "href": "https://en.wikipedia.org/wiki/Narrabri",
+        "text": "https://en.wikipedia.org/wiki/Narrabri",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.233333",
+          "-32.233333"
+        ]
+      },
+      "properties": {
+        "name": "Narromine (centre of locality)",
+        "description": "Narromine",
+        "song": "Narromine",
+        "href": "https://en.wikipedia.org/wiki/Narromine",
+        "text": "https://en.wikipedia.org/wiki/Narromine",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.445432",
+          "-27.54811"
+        ]
+      },
+      "properties": {
+        "name": "Oodnadatta (centre of locality)",
+        "description": "Oodnadatta",
+        "song": "Oodnadatta",
+        "href": "https://en.wikipedia.org/wiki/Oodnadatta",
+        "text": "https://en.wikipedia.org/wiki/Oodnadatta",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151",
+          "-33.816667"
+        ]
+      },
+      "properties": {
+        "name": "Parramatta (centre of locality)",
+        "description": "Parramatta",
+        "song": "Parramatta",
+        "href": "https://en.wikipedia.org/wiki/Parramatta",
+        "text": "https://en.wikipedia.org/wiki/Parramatta",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "148.5808",
+          "-20.4016"
+        ]
+      },
+      "properties": {
+        "name": "Proserpine (town centre)",
+        "description": "Proserpine",
+        "song": "Proserpine",
+        "href": "https://en.wikipedia.org/wiki/Proserpine,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Proserpine,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.13",
+          "-37.03"
+        ]
+      },
+      "properties": {
+        "name": "Seymour (centre of locality)",
+        "description": "Seymour",
+        "song": "Seymour",
+        "href": "https://en.wikipedia.org/wiki/Seymour,_Victoria",
+        "text": "https://en.wikipedia.org/wiki/Seymour,_Victoria",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "147.883333",
+          "-34.5"
+        ]
+      },
+      "properties": {
+        "name": "Stockinbingal (centre of locality)",
+        "description": "Stockinbingal",
+        "song": "Stockinbingal",
+        "href": "https://en.wikipedia.org/wiki/Stockinbingal",
+        "text": "https://en.wikipedia.org/wiki/Stockinbingal",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.9888",
+          "-27.3019"
+        ]
+      },
+      "properties": {
+        "name": "Strathpine (centre of suburb)",
+        "description": "Strathpine",
+        "song": "Strathpine",
+        "href": "https://en.wikipedia.org/wiki/Strathpine,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Strathpine,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.178333",
+          "-27.860278"
+        ]
+      },
+      "properties": {
+        "name": "Tamborine (centre of locality)",
+        "description": "Tamborine",
+        "song": "Tamborine",
+        "href": "https://en.wikipedia.org/wiki/Tamborine_National_Park",
+        "text": "https://en.wikipedia.org/wiki/Tamborine_National_Park",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.45",
+          "-31.9"
+        ]
+      },
+      "properties": {
+        "name": "Taree (centre of locality)",
+        "description": "Taree",
+        "song": "Taree",
+        "href": "https://en.wikipedia.org/wiki/Taree",
+        "text": "https://en.wikipedia.org/wiki/Taree",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.444444",
+          "-33.448056"
+        ]
+      },
+      "properties": {
+        "name": "Terrigal (centre of locality)",
+        "description": "Terrigal",
+        "song": "Terrigal",
+        "href": "https://en.wikipedia.org/wiki/Terrigal",
+        "text": "https://en.wikipedia.org/wiki/Terrigal",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "142.008056",
+          "-29.433056"
+        ]
+      },
+      "properties": {
+        "name": "Tibooburra (centre of locality)",
+        "description": "Tibooburra",
+        "song": "Tibooburra",
+        "href": "https://en.wikipedia.org/wiki/Tibooburra",
+        "text": "https://en.wikipedia.org/wiki/Tibooburra",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.95",
+          "-27.56666667"
+        ]
+      },
+      "properties": {
+        "name": "Toowoomba",
+        "description": "Toowoomba",
+        "song": "Toowoomba",
+        "href": "https://en.wikipedia.org/wiki/Toowoomba",
+        "text": "https://en.wikipedia.org/wiki/Toowoomba",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.475833",
+          "-33.280833"
+        ]
+      },
+      "properties": {
+        "name": "Tuggerawong (centre of locality)",
+        "description": "Tuggerawong",
+        "song": "Tuggerawong",
+        "href": "https://en.wikipedia.org/wiki/Tuggerawong,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Tuggerawong,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "147.566667",
+          "-32.633333"
+        ]
+      },
+      "properties": {
+        "name": "Tullamore",
+        "description": "Tullamore",
+        "song": "Tullamore",
+        "href": "https://en.wikipedia.org/wiki/Tullamore,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Tullamore,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.1301",
+          "-33.7338"
+        ]
+      },
+      "properties": {
+        "name": "Turramurra (centre of locality)",
+        "description": "Turramurra",
+        "song": "Turramurra",
+        "href": "https://en.wikipedia.org/wiki/Turramurra",
+        "text": "https://en.wikipedia.org/wiki/Turramurra",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.467778",
+          "-35.348611"
+        ]
+      },
+      "properties": {
+        "name": "Ulladulla (centre of locality)",
+        "description": "Ulladulla",
+        "song": "Ulladulla",
+        "href": "https://en.wikipedia.org/wiki/Ulladulla,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Ulladulla,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.844722",
+          "-34.453611"
+        ]
+      },
+      "properties": {
+        "name": "Unanderra (centre of locality)",
+        "description": "Unanderra",
+        "song": "Unanderra",
+        "href": "https://en.wikipedia.org/wiki/Unanderra,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Unanderra,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.9325",
+          "-28.9194"
+        ]
+      },
+      "properties": {
+        "name": "Wallangarra (town centre)",
+        "description": "Wallangarra",
+        "song": "Wallangarra",
+        "href": "https://en.wikipedia.org/wiki/Wallangarra,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Wallangarra,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.9958",
+          "-25.0730"
+        ]
+      },
+      "properties": {
+        "name": "Wallaville (centre of locality)",
+        "description": "Wallaville",
+        "song": "Wallaville",
+        "href": "https://en.wikipedia.org/wiki/Wallaville",
+        "text": "https://en.wikipedia.org/wiki/Wallaville",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "149.1863",
+          "-26.5869"
+        ]
+      },
+      "properties": {
+        "name": "Wallumbilla (town centre)",
+        "description": "Wallumbilla",
+        "song": "Wallumbilla",
+        "href": "https://en.wikipedia.org/wiki/Wallumbilla,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Wallumbilla,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.8",
+          "-35.183333"
+        ]
+      },
+      "properties": {
+        "name": "Wanganella (centre of locality)",
+        "description": "Wanganella",
+        "song": "Wangarella",
+        "href": "https://en.wikipedia.org/wiki/Wanganella,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Wanganella,_New_South_Wales",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "146.3125",
+          "-36.358333"
+        ]
+      },
+      "properties": {
+        "name": "Wangaratta (centre of locality)",
+        "description": "Wangaratta",
+        "song": "Wangaratta",
+        "href": "https://en.wikipedia.org/wiki/Wangaratta",
+        "text": "https://en.wikipedia.org/wiki/Wangaratta",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.433333",
+          "-33.95"
+        ]
+      },
+      "properties": {
+        "name": "Wollondilly (centre of locality)",
+        "description": "Wollondilly",
+        "song": "Wollondilly",
+        "href": "https://en.wikipedia.org/wiki/Wollondilly_River",
+        "text": "https://en.wikipedia.org/wiki/Wollondilly_River",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "150.893915",
+          "-34.427243"
+        ]
+      },
+      "properties": {
+        "name": "Wollongong (centre of locality)",
+        "description": "Wollongong",
+        "song": "Wollongong",
+        "href": "https://en.wikipedia.org/wiki/Wollongong",
+        "text": "https://en.wikipedia.org/wiki/Wollongong",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "152.6",
+          "-28.383333"
+        ]
+      },
+      "properties": {
+        "name": "Woodenbong (centre of locality)",
+        "description": "Woodenbong",
+        "song": "Woodenbong",
+        "href": "https://en.wikipedia.org/wiki/Woodenbong",
+        "text": "https://en.wikipedia.org/wiki/Woodenbong",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.2223",
+          "-33.8704"
+        ]
+      },
+      "properties": {
+        "name": "Woolloomooloo (centre of locality)",
+        "description": "Woolloomooloo",
+        "song": "Woolloomooloo",
+        "href": "https://en.wikipedia.org/wiki/Woolloomooloo",
+        "text": "https://en.wikipedia.org/wiki/Woolloomooloo",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "151.418",
+          "-33.282"
+        ]
+      },
+      "properties": {
+        "name": "Wyong (centre of locality)",
+        "description": "Wyong",
+        "song": "Wyong",
+        "href": "https://en.wikipedia.org/wiki/Wyong,_New_South_Wales",
+        "text": "https://en.wikipedia.org/wiki/Wyong,_New_South_Wales",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.908333",
+          "-37.851944"
+        ]
+      },
+      "properties": {
+        "name": "Yarra River (centre of locality)",
+        "description": "Yarra River",
+        "song": "Yarra Yarra",
+        "href": "https://en.wikipedia.org/wiki/Yarra_River",
+        "text": "https://en.wikipedia.org/wiki/Yarra_River",
+        "visited": true,
+        "icon": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "153.0119",
+          "-27.53"
+        ]
+      },
+      "properties": {
+        "name": "Yeerongpilly (centre of locality)",
+        "description": "Yeerongpilly",
+        "song": "Yeerongpilly",
+        "href": "https://en.wikipedia.org/wiki/Yeerongpilly,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Yeerongpilly,_Queensland",
+        "visited": false,
+        "icon": "unvisited"
+      }
+    }
+  ]
+}
