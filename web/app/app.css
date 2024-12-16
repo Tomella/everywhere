@@ -84,6 +84,7 @@ body {
 
 #heading1 {
   font-family: 'Times New Roman', Times, serif;
+  text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white, 2px 2px 0 white;
   opacity: 0.8;
   z-index: 10;
   position: fixed;
