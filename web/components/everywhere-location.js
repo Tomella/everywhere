@@ -4,6 +4,9 @@ template.innerHTML = `
         .hover {
             color: darkred;
         }
+        span {
+        user-select: none; /* standard syntax */
+        }
     </style>
     <span></span>
 `;
