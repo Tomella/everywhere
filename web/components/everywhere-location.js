@@ -5,10 +5,10 @@ template.innerHTML = `
             color: darkred;
         }
         span {
-        user-select: none; /* standard syntax */
+            user-select: none; /* standard syntax */
         }
     </style>
-    <span></span>
+    <span title="Click to centre on map, double click to zoom and centre, shift key on double click zooms out."></span>
 `;
 
 class Location extends HTMLElement {
