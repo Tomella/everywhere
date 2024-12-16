@@ -367,16 +367,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "149.626944",
-          "-27.055556"
+          "150.1363",
+          "-26.9258"
         ]
       },
       "properties": {
-        "name": "Condamine River (centre of locality)",
-        "description": "Condamine River",
+        "name": "Condamine (centre of locality)",
+        "description": "Condamine",
         "song": "Condamine",
-        "href": "https://en.wikipedia.org/wiki/Condamine_River",
-        "text": "https://en.wikipedia.org/wiki/Condamine_River",
+        "href": "https://en.wikipedia.org/wiki/Condamine,_Queensland",
+        "text": "https://en.wikipedia.org/wiki/Condamine,_Queensland",
         "visited": false,
         "icon": "unvisited"
       }

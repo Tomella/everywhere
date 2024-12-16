@@ -62,9 +62,8 @@ export default
             Collaroy: {
                 visited: false
             },
-            "Condamine River": {
-                visited: false,
-                song:"Condamine"
+            Condamine: {
+                visited: false
             },
             Coolangatta: {
                 visited: true
