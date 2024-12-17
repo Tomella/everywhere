@@ -132,3 +132,9 @@ a:active {
 
   line-height: 140%;
 }
+
+everywhere-flasher {
+  position: fixed;
+  top: 10px;
+  left:60px;
+}

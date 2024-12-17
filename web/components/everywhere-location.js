@@ -5,7 +5,7 @@ template.innerHTML = `
             color: darkred;
         }
         span {
-            user-select: none; /* standard syntax */
+            user-select: none; 
         }
     </style>
     <span title="Click to centre on map, double click to zoom and centre, shift key on double click zooms out."></span>

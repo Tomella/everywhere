@@ -23,6 +23,7 @@ document.addEventListener("featureadded", ev => {
 
 
 let locations = document.querySelector("#lyrics");
+let flasher = document.querySelector("everywhere-flasher");
 
 // I think there should be a moraorium on firing this if either a click or dblclick has occured in the last x seconds
 let timer = Date.now();
@@ -42,7 +43,7 @@ locations.addEventListener("locationclick", ev => {
     if(data) {
         let latLng = data.layer.getLatLng();
         map.setView(latLng);
-    } else console.log("what? No " + ev.detail.name)
+    } else unknown("Not sure of location of " + ev.detail.name);
 });
 
 locations.addEventListener("locationdblclick", ev => {
@@ -53,5 +54,9 @@ locations.addEventListener("locationdblclick", ev => {
         let latLng = data.layer.getLatLng();
         map.setView(latLng); 
         map.zoomIn(zoom);
-    } else console.log("what? No " + ev.detail.name)
+    } else unknown("Not sure of location of " + ev.detail.name);
 });
+
+function unknown(text) {
+    flasher.setAttribute("text", text);
+}
