@@ -89,8 +89,8 @@ body {
   z-index: 10;
   position: fixed;
   top: 0px;
-  right: 0px;
-  margin: 30px;
+  right: 10px;
+  margin: 10px;
 }
 
 #heading1>h1 {
@@ -107,9 +107,9 @@ a:active {
 #lyricscontainer {
   position: fixed;
   z-index: 20;
-  top: 70px;
+  top: 60px;
   right: 5px;
-  bottom: 30px;
+  bottom: 15px;
   width: 20em;
   padding: 20px;
 
