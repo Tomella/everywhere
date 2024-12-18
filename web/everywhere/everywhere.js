@@ -29,7 +29,7 @@ let flasher = document.querySelector("everywhere-flasher");
 let timer = Date.now();
 locations.addEventListener("locationover", ev => {
     let now = Date.now();
-    if(now - timer < 2000) return;    // Maybe it should be paramaterised
+    if(now - timer < 1000) return;    // Maybe it should be paramaterised
 
     let data = features[ev.detail.name];
     if(data) {
