@@ -43,7 +43,14 @@ locations.addEventListener("locationclick", ev => {
     if(data) {
         let latLng = data.layer.getLatLng();
         map.setView(latLng);
-    } else unknown("Not sure of location of " + ev.detail.name);
+    } else {
+        if(!ev.detail.message) {
+            unknown("Not sure of location of " + ev.detail.name);
+        }
+    }
+    if(ev.detail.message) {
+        unknown(ev.detail.message);
+    }
 });
 
 locations.addEventListener("locationdblclick", ev => {
@@ -54,8 +61,16 @@ locations.addEventListener("locationdblclick", ev => {
         let latLng = data.layer.getLatLng();
         map.setView(latLng); 
         map.zoomIn(zoom);
-    } else unknown("Not sure of location of " + ev.detail.name);
+    } else {
+        if(!ev.detail.message) {
+            unknown("Not sure of location of " + ev.detail.name);
+        }
+    }
+    if(ev.detail.message) {
+        unknown(ev.detail.message);
+    }
 });
+
 
 function unknown(text) {
     flasher.setAttribute("text", text);

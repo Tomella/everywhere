@@ -24,7 +24,6 @@ class Location extends HTMLElement {
         let clone = template.content.cloneNode(true);
         root.appendChild(clone);
         this._text = this.innerHTML;
-
     }
 
     attributeChangedCallback(attr, oldValue, newValue) {
@@ -61,7 +60,8 @@ class Location extends HTMLElement {
             this.dispatchEvent(new CustomEvent("locationclick", {
                 bubbles: true,
                 detail: {
-                    name: this._text
+                    name: this._text,
+                    message: this.getAttribute("title")
                 }
             }));
         });
@@ -72,6 +72,7 @@ class Location extends HTMLElement {
                 bubbles: true,
                 detail: {
                     name: this._text,
+                    message: this.getAttribute("title"),
                     modified: ev.shiftKey
                 }
             }));
@@ -81,7 +82,8 @@ class Location extends HTMLElement {
             this.dispatchEvent(new CustomEvent("locationauxclick", {
                 bubbles: true,
                 detail: {
-                    name: this._text
+                    name: this._text,
+                    message: this.getAttribute("title")
                 }
             }));
         });
