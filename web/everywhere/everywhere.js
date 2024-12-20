@@ -19,6 +19,7 @@ let features = {};
 document.addEventListener("featureadded", ev => {
     // We want to know about 
     features[ev.detail.name] = ev.detail;
+    console.log(ev.detail.name)
 });
 
 
@@ -41,15 +42,15 @@ locations.addEventListener("locationclick", ev => {
     timer = Date.now();
     let data = features[ev.detail.name];
     if(data) {
-        let latLng = data.layer.getLatLng();
+        let latLng = getCenter(data.layer);
         map.setView(latLng);
     } else {
         if(!ev.detail.message) {
-            unknown("Not sure of location of " + ev.detail.name);
+            popup("Not sure of location of " + ev.detail.name);
         }
     }
     if(ev.detail.message) {
-        unknown(ev.detail.message);
+        popup(ev.detail.message);
     }
 });
 
@@ -58,20 +59,26 @@ locations.addEventListener("locationdblclick", ev => {
     let data = features[ev.detail.name];
     let zoom = ev.detail.modified ? -1 : 1;
     if(data) {
-        let latLng = data.layer.getLatLng();
+        let latLng = getCenter(data.layer);
         map.setView(latLng); 
         map.zoomIn(zoom);
     } else {
         if(!ev.detail.message) {
-            unknown("Not sure of location of " + ev.detail.name);
+            popup("Not sure of location of " + ev.detail.name);
         }
     }
     if(ev.detail.message) {
-        unknown(ev.detail.message);
+        popup(ev.detail.message);
     }
 });
 
+function getCenter(layer) {
+    if(layer.getLatLng) return layer.getLatLng();
+    if(layer.getCenter) return layer.getCenter();
+    // Dunno what  to do here so let it error for now, we can pick up other layers later (if we ever get them) by the trace. 
+}
 
-function unknown(text) {
+
+function popup(text) {
     flasher.setAttribute("text", text);
 }

@@ -30,6 +30,15 @@ export default {
                     weight:4,
                     name:"Murray River"
                 }
+            },
+            {
+                type: "geoJSONUrl",
+                url: "data/oodnadatta_track.json",
+                options: {
+                    color: "rgb(240,0,0)",
+                    weight:4,
+                    name:"Oodnadatta Track"
+                }
             }
         ],
         materialIcons: [
