@@ -38,6 +38,16 @@ locations.addEventListener("locationover", ev => {
     } else console.log("what? No " + ev.detail.name)
 });
 
+locations.addEventListener("locationout", ev => {
+    let now = Date.now();
+    if(now - timer < 1000) return;    // Maybe it should be paramaterised
+
+    let data = features[ev.detail.name];
+    if(data) {
+        data.layer.closePopup();
+    } else console.log("what? No " + ev.detail.name)
+});
+
 locations.addEventListener("locationclick", ev => {
     timer = Date.now();
     let data = features[ev.detail.name];

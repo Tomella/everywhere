@@ -54,6 +54,12 @@ class Location extends HTMLElement {
 
         span.addEventListener("mouseout", () => {
             span.classList.remove("hover");
+            this.dispatchEvent(new CustomEvent("locationout", {
+                bubbles: true,
+                detail: {
+                    name: this._text
+                }
+            }));
         });
 
         span.addEventListener("click", () => {
