@@ -22,7 +22,6 @@ document.addEventListener("featureadded", ev => {
     console.log(ev.detail.name)
 });
 
-
 let locations = document.querySelector("#lyrics");
 let flasher = document.querySelector("everywhere-flasher");
 
@@ -87,7 +86,6 @@ function getCenter(layer) {
     if(layer.getCenter) return layer.getCenter();
     // Dunno what  to do here so let it error for now, we can pick up other layers later (if we ever get them) by the trace. 
 }
-
 
 function popup(text) {
     flasher.setAttribute("text", text);
