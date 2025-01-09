@@ -19,7 +19,7 @@ let features = {};
 document.addEventListener("featureadded", ev => {
     // We want to know about 
     features[ev.detail.name] = ev.detail;
-    console.log(ev.detail.name)
+    //console.log(ev.detail.name)
 });
 
 let locations = document.querySelector("#lyrics");
@@ -90,3 +90,55 @@ function getCenter(layer) {
 function popup(text) {
     flasher.setAttribute("text", text);
 }
+
+
+L.Control.Toggle = L.Control.extend({
+    activeSvgPath: "M792-56 56-792l56-56 736 736-56 56ZM560-514l-80-80v-246h240v160H560v166ZM400-120q-66 0-113-47t-47-113q0-66 47-113t113-47q23 0 42.5 5.5T480-418v-62l80 80v120q0 66-47 113t-113 47Z",
+    inactiveSvgPath: "M400-120q-66 0-113-47t-47-113q0-66 47-113t113-47q23 0 42.5 5.5T480-418v-422h240v160H560v400q0 66-47 113t-113 47Z",
+    active: false,
+    onAdd: function(map) {
+        //<a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false"><span aria-hidden="true">+</span></a>
+        let template = document.createElement('div');
+        //        <a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false">
+        template.classList.add("leaflet-control", "leaflet-bar");
+        template.innerHTML = `
+        <a href="#">
+            <svg xmlns="http://www.w3.org/2000/svg" height="28px" viewBox="0 -960 960 960" width="24px" fill="#5f6368">
+                <path d="M400-120q-66 0-113-47t-47-113q0-66 47-113t113-47q23 0 42.5 5.5T480-418v-422h240v160H560v400q0 66-47 113t-113 47Z"/>
+            </svg>
+        </a>
+        `;
+
+        let a = template.querySelector("a");
+        a.addEventListener("click", (ev) => {
+            this.active = !this.active;
+            let path = this._container.querySelector("path").setAttribute("d",
+                this.active? this.activeSvgPath : this.inactiveSvgPath 
+            );
+
+            map.fireEvent("togglemedia", { active: this.active });
+
+        });
+
+        return template;
+    },
+
+    onRemove: function(map) {
+        // Nothing to do here
+    }
+});
+
+L.control.toggle = function(opts) {
+    return new L.Control.Toggle(opts);
+}
+
+L.control.toggle({ position: 'topleft' }).addTo(map);
+
+map.addEventListener("togglemedia", (ev)  => {
+    let classList = document.querySelector("#mediaplayer").classList;
+    if(ev.active) {
+        classList.remove("hide");
+    } else {
+        classList.add("hide");
+    }
+});
