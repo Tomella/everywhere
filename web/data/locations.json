@@ -1232,8 +1232,8 @@
         "song": "Oodnadatta",
         "href": "https://en.wikipedia.org/wiki/Oodnadatta",
         "text": "https://en.wikipedia.org/wiki/Oodnadatta",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {

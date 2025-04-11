@@ -8,7 +8,7 @@
         "description": "Oodnadatta Track",
         "song": "Oodnadatta road",
         "href": "https://en.wikipedia.org/wiki/Oodnadatta_Track",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "type": "LineString",

@@ -198,7 +198,7 @@ export default
                 visited: false
             },
             Oodnadatta: {
-                visited: false
+                visited: true
             },
             Parramatta: {
                 visited: true

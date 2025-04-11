@@ -13,7 +13,7 @@ const template = {
                 "description": "Oodnadatta Track",
                 "song": "Oodnadatta Track",
                 "href": "https://en.wikipedia.org/wiki/Oodnadatta_Track",
-                "visited": false,
+                "visited": true,
                 "song": "Oodnadatta road",
             },
             "geometry": {
