@@ -5,7 +5,7 @@ export default
                 visited: true
             },
             Augathella: {
-                visited: false
+                visited: true
             },
             Ballarat: {
                 visited: true
@@ -23,7 +23,7 @@ export default
                 visited: false
             },
             Birdsville: {
-                visited: false
+                visited: true
             },
             Boggabilla: {
                 visited: false
@@ -57,7 +57,7 @@ export default
                 visited: true
             },
             Cloncurry: {
-                visited: false
+                visited: true
             },
             Collaroy: {
                 visited: false
@@ -69,7 +69,7 @@ export default
                 visited: true
             },
             Cunnamulla: {
-                visited: false
+                visited: true
             },
             Dalveen: {
                 visited: false
@@ -174,7 +174,7 @@ export default
                 visited: true
             },
             Morella: {
-                visited: false
+                visited: true
             },
             Muckadilla: {
                 visited: false
@@ -225,7 +225,7 @@ export default
                 visited: false
             },
             Tibooburra: {
-                visited: false
+                visited: true
             },
             Toowoomba: {
                 visited: true

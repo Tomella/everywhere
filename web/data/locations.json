@@ -35,8 +35,8 @@
         "song": "Augathella",
         "href": "https://en.wikipedia.org/wiki/Augathella",
         "text": "https://en.wikipedia.org/wiki/Augathella",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
@@ -130,8 +130,8 @@
         "song": "Birdsville",
         "href": "https://en.wikipedia.org/wiki/Birdsville",
         "text": "https://en.wikipedia.org/wiki/Birdsville",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
@@ -339,8 +339,8 @@
         "song": "Cloncurry",
         "href": "https://en.wikipedia.org/wiki/Cloncurry,_Queensland",
         "text": "https://en.wikipedia.org/wiki/Cloncurry,_Queensland",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
@@ -415,8 +415,8 @@
         "song": "Cunnamulla",
         "href": "https://en.wikipedia.org/wiki/Cunnamulla",
         "text": "https://en.wikipedia.org/wiki/Cunnamulla",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
@@ -1080,8 +1080,8 @@
         "song": "Morella",
         "href": "https://en.wikipedia.org/wiki/Morella,_Queensland",
         "text": "https://en.wikipedia.org/wiki/Morella,_Queensland",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
@@ -1403,8 +1403,8 @@
         "song": "Tibooburra",
         "href": "https://en.wikipedia.org/wiki/Tibooburra",
         "text": "https://en.wikipedia.org/wiki/Tibooburra",
-        "visited": false,
-        "icon": "unvisited"
+        "visited": true,
+        "icon": "visited"
       }
     },
     {
